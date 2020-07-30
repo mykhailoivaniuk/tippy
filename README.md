@@ -34,7 +34,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Creating animations was the hardest part of creating this app. Also, tutorials for uploading project for github are outdated and do not really help as Xcode11 has some weird lags that do not allow to commit changes and then push themm to github.
+Creating animations was the hardest part of creating this app, but CodePath IOS Guides were super helpful.
+The app is best displayed at Iphone 8 Plus.
+
 
 ## License
 
