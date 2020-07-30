@@ -34,11 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Creating animations was the hardest part of creating this app. Also, tutorials for uploading project for github are outdated and do not really help as Xcode11 has some weird lags that do not allow to commit changes and then push themm to github.
 
 ## License
 
-    Copyright [] [name of copyright owner]
+    Copyright [For Codepath] [Misha Ivaniuk]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
